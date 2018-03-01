@@ -1,6 +1,6 @@
 # Blur Image Sharpening
 
-This repository contains the data and demo code to reproduce the results in our manuscript: "[Sharpening of hierarchical visual feature representations of blurred images](https://www.biorxiv.org/content/early/2017/12/07/230078)". 
+This repository contains the demo code to reproduce the results in our manuscript: "[Sharpening of hierarchical visual feature representations of blurred images](https://www.biorxiv.org/content/early/2017/12/07/230078)". 
 We demonstrate in this papar the sharpening effect occuring in the visual cortex to enhance the representation of viewed blurred images. For more details, please refer to the manuscript.
 
 ## Data
