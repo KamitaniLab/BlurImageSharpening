@@ -7,6 +7,15 @@ We demonstrate in this papar the sharpening effect occuring in the visual cortex
 
 The fMRI data for five subjects (decoder training and blurred test images) and visual features of DNN layers from 1 to 8 (extracted via [Matconvnet](http://www.vlfeat.org/matconvnet/)) are available from [BrainLiner](http://brainliner.jp/data/brainliner/Blur_Image_Sharpening).
 
+Data files:
+
+- [ImageFeatures.mat](http://brainliner.jp/download/51/downloadSupplementaryFile)
+- [Subject1.mat](http://brainliner.jp/download/53/downloadSupplementaryFile)
+- [Subject2.mat](http://brainliner.jp/download/55/downloadSupplementaryFile)
+- [Subject3.mat](http://brainliner.jp/download/52/downloadSupplementaryFile)
+- [Subject4.mat](http://brainliner.jp/download/54/downloadSupplementaryFile)
+- [Subject5.mat](http://brainliner.jp/download/56/downloadSupplementaryFile)
+
 ### Prerequisites
 
 These data are saved in the form of the [BrainDecoderToolbox2](https://github.com/KamitaniLab/BrainDecoderToolbox2/) format. This tool is needed to run the code.
@@ -16,7 +25,6 @@ Required MATLAB toolboxes:
 * Neural Network Toolbox (v9.0)
 * Statistics and Machine Learning Toolbox (v10.2)
 * Communication System Toolbox (v6.2)
-
 
 ## Usage
 
@@ -47,7 +55,6 @@ The folder organization should be as follows
         |
         lib/ (contains all the support functions needed)
 ```
-
 
 You can run GetStarted to apply all the functions in a sequential manner.
 
