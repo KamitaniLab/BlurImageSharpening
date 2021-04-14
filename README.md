@@ -16,6 +16,8 @@ Data files:
 - [Subject4.mat](http://brainliner.jp/download/54/downloadSupplementaryFile)
 - [Subject5.mat](http://brainliner.jp/download/56/downloadSupplementaryFile)
 
+You can request stimulus images at <https://forms.gle/KkQpux7KCk1AFjo59>.
+
 ### Prerequisites
 
 These data are saved in the form of the [BrainDecoderToolbox2](https://github.com/KamitaniLab/BrainDecoderToolbox2/) format. This tool is needed to run the code.
